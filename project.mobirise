@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "KRRS786 Catering ",
-    "currentPage": "index.html",
+    "currentPage": "AboutUs.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -129,7 +129,15 @@
             "showBullets": true
           },
           "_anchor": "slider-0",
-          "articleLayout": false
+          "articleLayout": false,
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_inherit": "msg-box3",
@@ -480,7 +488,7 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#9365b8",
+              "color": "#bfa4d6",
               "font-size": "32px"
             },
             ".mbr-header .mbr-header__subtext": {
@@ -491,9 +499,10 @@
               "color": "#fff"
             },
             ".mbr-article P": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -504,13 +513,13 @@
           "_params": {
             "showCaption": "noCaption",
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "showTitle": true,
             "showText": true,
             "showButton": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/catering-brooke-lark-2000x1497.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -518,7 +527,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.2,
+            "overlayOpacity": "0.7",
             "overlayColor": "#28324e",
             "showMeta": false,
             "darkBackground": true
@@ -533,7 +542,7 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#9365b8",
+              "color": "#bfa4d6",
               "font-size": "32px"
             },
             ".mbr-header .mbr-header__subtext": {
@@ -545,7 +554,8 @@
             },
             ".mbr-article P": {
               "color": "#000000",
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -585,7 +595,7 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#9365b8",
+              "color": "#bfa4d6",
               "font-size": "32px"
             },
             ".mbr-header .mbr-header__subtext": {
@@ -596,7 +606,8 @@
               "color": "#fff"
             },
             ".mbr-article P": {
-              "color": "#000000"
+              "color": "#ffffff",
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -613,7 +624,7 @@
             "showButton": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/catering-brooke-lark-2000x1497.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -621,7 +632,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.2,
+            "overlayOpacity": "0.7",
             "overlayColor": "#28324e",
             "showMeta": false,
             "darkBackground": true
@@ -636,7 +647,7 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#9365b8",
+              "color": "#bfa4d6",
               "font-size": "32px"
             },
             ".mbr-header .mbr-header__subtext": {
@@ -647,6 +658,10 @@
               "color": "#fff"
             },
             ".mbr-article P": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-article H2": {
               "color": "#000000"
             }
           },
@@ -679,7 +694,7 @@
           },
           "title": "OUR VISION",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<h2>We aim to be South Africa's most trusted name in all matters relating to the services that we offer.</h2>",
+          "text": "<p>We aim to be South Africa's most trusted name in all matters relating to the services that we offer.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -687,7 +702,7 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#9365b8",
+              "color": "#bfa4d6",
               "font-size": "32px"
             },
             ".mbr-header .mbr-header__subtext": {
@@ -698,11 +713,11 @@
               "color": "#fff"
             },
             ".mbr-article P": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "20px"
             },
             ".mbr-article UL": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "20px"
             }
           },
@@ -714,13 +729,13 @@
           "_params": {
             "showCaption": "noCaption",
             "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "showTitle": true,
             "showText": true,
             "showButton": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1374.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -728,7 +743,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.2,
+            "overlayOpacity": "0.7",
             "overlayColor": "#28324e",
             "showMeta": false,
             "darkBackground": true

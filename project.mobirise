@@ -512,8 +512,8 @@
           "_anchor": "content5-g",
           "_params": {
             "showCaption": "noCaption",
-            "paddingTop": "2",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showTitle": true,
             "showText": true,
             "showButton": false,
@@ -639,7 +639,7 @@
           },
           "title": "OUR MISSION",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "\u001a<p>To be the best at all we do and to keep the momentun going. We are committed to world-class delivery, of highest quality and standards at market competitive prices always.&nbsp;</p><p>Our commitment to excellence is based our confidence and our ability to train and develop our staff&nbsp;</p>",
+          "text": "\u001a<span style=\"font-size: 20px;\">To be the best at all we do and to keep the momentun going. We are committed to world-class delivery, of highest quality and standards at market competitive prices always.&nbsp;</span><p>Our commitment to excellence is based our confidence and our ability to train and develop our staff&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -735,7 +735,7 @@
             "showButton": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1374.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/catering-brooke-lark-2000x1497.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
